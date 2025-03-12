@@ -30,7 +30,7 @@ Antes de executar o projeto, certifique-se de que você possui os seguintes requ
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/joaopedro-monteiro/AdminLTE.RazorPages.git
 
 2. **Navegue até a pasta do projeto:**
    ```bash
